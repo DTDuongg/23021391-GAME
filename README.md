@@ -3,7 +3,7 @@
 1.Giới thiệu
 Dự án game này là một trò chơi phiêu lưu hành động 2D, nơi người chơi điều khiển nhân vật chính vượt qua các chướng ngại vật và kẻ thù để hoàn thành nhiệm vụ. Trò chơi kết hợp giữa yếu tố giải đố và chiến đấu, mang đến trải nghiệm thú vị và thử thách cho người chơi.
 
-2. Điểm đề xuất: 8.0
+2. Điểm đề xuất: 9.0
 
 3. Lý do bảo vệ ngưỡng điểm
 - Tự học và tự triển khai tính năng:
